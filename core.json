@@ -1,8 +1,4 @@
 {
-  "name": "DNS filter",
-  "description": "Filter composed of several other filters"
-  "sources": [
-    {
       "name": "AdGuard Base filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
       "type": "adblock",
@@ -15,7 +11,93 @@
       "type": "adblock",
       "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party2",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/113_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party3",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/6_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party4",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party5",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party6",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/242_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party7",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/210_optimized.txt",
+      "type": "adblock",
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party8",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party9",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party10",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party11",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party12",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party13",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt",
+      "type": "adblock",
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party14",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
     }
-  ],
-  "transformations": ["Compress"]
-}
