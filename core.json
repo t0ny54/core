@@ -1,6 +1,6 @@
 {
   "name": "DNS filter",
-  "description": "Filter composed of several other filters
+  "description": "Filter composed of several other filters"
   "sources": [
     {
       "name": "AdGuard Base filter ad servers",
