@@ -6,6 +6,13 @@
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
       "type": "adblock",
       "transformations": ["RemoveModifiers", "Validate"]
+    },
+{
+      "name": "EasyList ad servers third-party1",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt",
+      "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
+      "transformations": ["RemoveModifiers", "Validate"]
     }
   ]
 }
