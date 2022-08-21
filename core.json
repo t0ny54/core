@@ -77,33 +77,6 @@
       "type": "adblock",
       "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party11",
-      "source": "https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party12",
-      "source": "https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party13",
-      "source": "https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt",
-      "type": "adblock",
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party14",
-      "source": "https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
     }
   ],
   "transformations": ["Compress"]
