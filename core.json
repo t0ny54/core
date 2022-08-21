@@ -1,6 +1,11 @@
-    {
+ {
+  "name": "test list 1",
+  "sources": [
+      {
       "name": "AdGuard Base filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
       "type": "adblock",
       "transformations": ["RemoveModifiers", "Validate"]
     }
+  ]
+}
