@@ -1,0 +1,24 @@
+name: Update AGH
+on:
+  push:
+    paths-ignore:
+  schedule:
+    - cron: '0 7 * * *'
+
+jobs:
+  build-blocklist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v3
+
+      - name: Build blocklist
+        uses: actions/checkout@v3
+      - run: |
+          sudo npm i -g @adguard/hostlist-compiler
+          hostlist-compiler -c core.json -o blocklist-agh.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "AGH"
+          git push
