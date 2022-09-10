@@ -2,10 +2,6 @@
             "name": "My Filter",
             "sources": [
                   {
-                    "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
-                    "type": "adblock"
-                  },
-		    {
                     "source": "https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt",
                     "type": "adblock"
                   }
