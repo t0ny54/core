@@ -15,7 +15,7 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v3
       - run: |
-          sudo yarn add @adguard/hostlist-compiler
+          sudo npm i @adguard/hostlist-compiler
           hostlist-compiler -c core.json -o blocklist-agh.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
