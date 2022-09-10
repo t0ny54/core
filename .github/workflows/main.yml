@@ -16,7 +16,6 @@ jobs:
         with:
           node-version: "14"
       - run: npm i -g @adguard/hostlist-compiler
-      - run: npm ci
 
       - name: Create local changes
         run: |
