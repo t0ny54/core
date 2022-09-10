@@ -189,7 +189,7 @@
     },
 {
       "name": "EasyList ad servers third-party31",
-      "https://easylist-downloads.adblockplus.org/easyprivacy.tpl",
+      "source": "https://easylist-downloads.adblockplus.org/easyprivacy.tpl",
       "type": "adblock",
       "transformations": ["RemoveModifiers", "Validate"]
     },
