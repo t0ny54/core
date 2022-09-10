@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
       - run: |
           sudo npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c package.json -o blocklist-agh.txt --verbose
+          hostlist-compiler -c core.json -o blocklist-agh.txt --verbose
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
