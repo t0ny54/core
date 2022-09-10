@@ -183,7 +183,7 @@
     },
 {
       "name": "EasyList ad servers third-party30",
-      "source": "http://margevicius.lt/easylistlithuania.txt",
+      "source": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
       "type": "adblock",
       "transformations": ["RemoveModifiers", "Validate"]
     },
