@@ -20,10 +20,11 @@ jobs:
         run: |
           yarn install
           yarn run build
+          
       - name: prepare deploy
         run: |
-          mkdir build
-          cp -rf ./ build/
+          yarn add @adguard/hostlist-compiler
+          hostlist-compiler core.json -o blocklist-agh.txt --verbose
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
