@@ -6,7 +6,7 @@
   "author": "antonyitunamaku",
   "license": "GPL-3.0",
   "scripts": {
-    "build": "hostlist-compiler core.json -o blocklist-agh.txt --verbose"
+    "build": "hostlist-compiler -c core.json -o blocklist-agh.txt --verbose"
   },
   "dependencies": {
     "@adguard/hostlist-compiler": "1.0.12"
