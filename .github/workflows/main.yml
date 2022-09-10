@@ -7,15 +7,19 @@ on:
 
 jobs:
   build-blocklist:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Setup Python
-        uses: actions/setup-python@v3
+    ruuns-on: ubuntu-latest
 
-      - name: Build blocklist
-        uses: actions/checkout@v3
-      - run: |
-          sudo npm i -g @adguard/hostlist-compiler && npm audit fix --force i -g @adguard/hostlist-compiler 
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - run: npm i -g @adguard/hostlist-compiler
+      - run: npm ci
+
+      - name: Create local changes
+        run: |
           hostlist-compiler -c core.json -o blocklist-agh.txt --verbose
           git config user.name github-actions
           git config user.email github-actions@github.com
