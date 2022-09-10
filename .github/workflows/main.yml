@@ -8,23 +8,15 @@ on:
 jobs:
   build-blocklist:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Setup Python
+        uses: actions/setup-python@v3
 
-      - name: yarn
-        run: |
-          yarn install
-          yarn run build
-          
-      - name: prepare deploy
-        run: |
-          yarn add @adguard/hostlist-compiler
-          hostlist-compiler core.json -o blocklist-agh.txt --verbose
+      - name: Build blocklist
+        uses: actions/checkout@v3
+      - run: |
+          sudo npm i -g @adguard/hostlist-compiler
+          hostlist-compiler -c package.json -o blocklist-agh.txt --verbose
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
