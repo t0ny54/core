@@ -156,13 +156,6 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
-      "name": "EasyList ad servers third-party22",
-      "source": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
       "name": "EasyList ad servers third-party23",
       "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
       "type": "adblock",
