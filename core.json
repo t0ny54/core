@@ -303,13 +303,6 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
-      "name": "EasyList ad servers third-party44",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
       "name": "EasyList ad servers third-party45",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt",
       "type": "adblock",
