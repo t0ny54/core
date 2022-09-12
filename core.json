@@ -5,306 +5,357 @@
       "name": "AdGuard Base filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party1",
       "source": "https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party2",
       "source": "https://filters.adtidy.org/extension/ublock/filters/113_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party3",
       "source": "https://filters.adtidy.org/extension/ublock/filters/6_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party4",
       "source": "https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party5",
       "source": "https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party6",
       "source": "https://filters.adtidy.org/extension/ublock/filters/242_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party7",
       "source": "https://filters.adtidy.org/extension/ublock/filters/210_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party8",
       "source": "https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party9",
       "source": "https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party10",
       "source": "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party11",
       "source": "https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party12",
       "source": "https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party13",
       "source": "https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party14",
       "source": "https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party15",
       "source": "https://easylist.to/easylist/easylist.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party16",
       "source": "https://easylist.to/easylist/easyprivacy.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party17",
       "source": "https://easylist.to/easylist/fanboy-social.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party18",
       "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party19",
       "source": "https://easylist.to/easylistgermany/easylistgermany.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party20",
       "source": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party21",
       "source": "https://easylist-downloads.adblockplus.org/easylistdutch.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party22",
       "source": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party23",
       "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party24",
       "source": "http://stanev.org/abp/adblock_bg.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party25",
       "source": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party26",
       "source": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party27",
       "source": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party28",
       "source": "https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party29",
       "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party30",
       "source": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party31",
       "source": "https://easylist-downloads.adblockplus.org/easyprivacy.tpl",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party32",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party33",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party34",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party35",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party36",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party37",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party38",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party39",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party40",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_22_Annoyances_Widgets/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party41",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party42",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party43",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party44",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party45",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party46",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party47",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party48",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party49",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
       "name": "EasyList ad servers third-party50",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt",
       "type": "adblock",
+      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     }
   ]
