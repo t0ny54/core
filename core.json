@@ -399,6 +399,6 @@
       "type": "adblock",
       "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
-    },
+    }
   ]
 }
