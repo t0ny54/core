@@ -99,27 +99,27 @@
       "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
-{
-      "name": "EasyList ad servers third-party15",
-      "source": "https://easylist.to/easylist/easylist.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party16",
-      "source": "https://easylist.to/easylist/easyprivacy.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
-      "name": "EasyList ad servers third-party17",
-      "source": "https://easylist.to/easylist/fanboy-social.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
+#{
+#      "name": "EasyList ad servers third-party15",
+#      "source": "https://easylist.to/easylist/easylist.txt",
+#      "type": "adblock",
+#      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
+#      "transformations": ["RemoveModifiers", "Validate"]
+#    },
+#{
+#      "name": "EasyList ad servers third-party16",
+#      "source": "https://easylist.to/easylist/easyprivacy.txt",
+#      "type": "adblock",
+#      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
+#      "transformations": ["RemoveModifiers", "Validate"]
+#    },
+#{
+#      "name": "EasyList ad servers third-party17",
+#      "source": "https://easylist.to/easylist/fanboy-social.txt",
+#      "type": "adblock",
+#      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
+#      "transformations": ["RemoveModifiers", "Validate"]
+#    },
 {
       "name": "EasyList ad servers third-party18",
       "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
@@ -127,13 +127,13 @@
       "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
       "transformations": ["RemoveModifiers", "Validate"]
     },
-{
-      "name": "EasyList ad servers third-party19",
-      "source": "https://easylist.to/easylistgermany/easylistgermany.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
+#{
+#      "name": "EasyList ad servers third-party19",
+#      "source": "https://easylist.to/easylistgermany/easylistgermany.txt",
+#      "type": "adblock",
+#      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
+#      "transformations": ["RemoveModifiers", "Validate"]
+#    },
 {
       "name": "EasyList ad servers third-party20",
       "source": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
