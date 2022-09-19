@@ -380,27 +380,6 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
       {
-      "name": "AdGuard Base filter ad servers58",
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-      {
-      "name": "AdGuard Base filter ad servers59",
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-      {
-      "name": "AdGuard Base filter ad servers60",
-      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-      {
       "name": "AdGuard Base filter ad servers61",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
       "type": "adblock",
