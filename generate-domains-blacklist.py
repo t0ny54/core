@@ -294,7 +294,7 @@ argp = argparse.ArgumentParser(
 argp.add_argument(
     "-c",
     "--config",
-    default="domains-blocklist.conf",
+    default="domains-blacklist.conf",
     help="file containing blocklist sources",
 )
 argp.add_argument(
