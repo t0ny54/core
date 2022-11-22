@@ -2,7 +2,6 @@
 
 import re
 import sys
-import urllib2
 
 
 def parse_blacklist(content, trusted=False):
