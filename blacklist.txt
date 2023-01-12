@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core/main/blocklist-agh.txt ##########
 
-# Ignored duplicates: 1723
+# Ignored duplicates: 1715
 
 marketing.globalpointofcare.abbott
 metrics.abbott
@@ -1667,6 +1667,7 @@ smetrics.marketing.lighting.philips.com.br
 oguwou.pichau.com.br
 xoq.pmubrasil.com.br
 pmweb.com.br
+popcorntime.com.br
 smetrics.pordentrodaesclerodermia.com.br
 premiumads.com.br
 cdn.privacytools.com.br
@@ -2797,7 +2798,6 @@ hi.zeri3a.click
 adebis.report.clinic
 adebis.toitoitoi.clinic
 rtb-eu-v4.152media.cloud
-rtb-useast-v4.152media.cloud
 adstudio.cloud
 awstats.cloud
 log.codemarketing.cloud
@@ -3952,6 +3952,7 @@ gcihkyd.cn
 gcpvkfe.cn
 gdgffir.cn
 gednra.cn
+geiaxbk.cn
 getibih.cn
 getsgroup.cn
 gfqfjau.cn
@@ -3975,6 +3976,7 @@ gkspde.cn
 glovemall.cn
 glrcy.cn
 glspjvy.cn
+glzniuy.cn
 ad.gmw.cn
 channel-analysis-js.gmw.cn
 gndwgmg.cn
@@ -4084,6 +4086,7 @@ hfoyjg.cn
 hfrytno.cn
 hfwzbp.cn
 hgbvtax.cn
+hhaobcj.cn
 hhgxbxk.cn
 hhizcfv.cn
 hhnlhl.cn
@@ -4842,7 +4845,6 @@ qqxfybt.cn
 qrfladd.cn
 qrnmyn.cn
 qrzogzy.cn
-qs01.cn
 qsdqyf.cn
 qsmdeyz.cn
 qstzar.cn
@@ -5175,6 +5177,7 @@ uebabuf.cn
 uehtjp.cn
 uekjbr.cn
 uekqdec.cn
+ufynxmf.cn
 ufzwoiu.cn
 ugkmihh.cn
 uhmtlzd.cn
@@ -5233,6 +5236,7 @@ vaxfpal.cn
 vbgr7.cn
 vbillplus.cn
 vciayrf.cn
+vcinwqw.cn
 vcsoat.cn
 vcwcrd.cn
 vdedqoi.cn
@@ -9448,10 +9452,7 @@ admedo.com
 admeerkat.com
 admeld.com
 admenhost.com
-xml1.admeridianads.com
-rtb-useast.admeridianopenrtb.com
 admeta.com
-advertise.admetix.com
 admetricspro.com
 admez.com
 admidainsight.com
@@ -9672,7 +9673,6 @@ adsbookie.com
 adsbreak.com
 adsbro.com
 adsbtrk.com
-login.adsbuyclick.com
 turbo.adsbynimbus.com
 adscendmedia.com
 adschill.com
@@ -10198,11 +10198,8 @@ afi-b.com
 afj0.com
 afjlb.com
 afk-i.com
-rtb-useast-v4.afkwa.com
 rtb-uswest-v4.afkwa.com
-rtb2-useast.afkwa.com
 rtb2-uswest.afkwa.com
-static-rtb2.afkwa.com
 afm01.com
 afminer.com
 afmqvqgklpvgaq.com
@@ -11405,8 +11402,6 @@ anymoviesearch.com
 anyoneengravemighty.com
 anyplaceagency.com
 click.anytheengmedia.com
-filter.anytheengmedia.com
-static.anytheengmedia.com
 anytimeoutstandingcharges.com
 anytimesuggestion.com
 anyxp.com
@@ -12296,7 +12291,6 @@ dcs.audi.com
 audiblytriggersreview.com
 audience2media.com
 audienceamplify.com
-cpm.audiencedevelopers.com
 filter.audiencedevelopers.com
 audiencefuel.com
 audienceiq.com
@@ -12829,7 +12823,6 @@ baggageconservationcaught.com
 baggiebilious.com
 bagsmartname.com
 bagsstepcollations.com
-baguioattalea.com
 bagusholidays.com
 smetric.bahamabreeze.com
 qlqvej.bahia-principe.com
@@ -13053,6 +13046,7 @@ banquetsemina.com
 banquetunarmedgrater.com
 smetrics.banter.com
 bantercubicle.com
+bantergleameddecline.com
 bantgoau.com
 banxc.com
 vpn.baolq666.com
@@ -14582,6 +14576,7 @@ botscanner.com
 botsdownload.com
 botsvisit.com
 track.bottegaofferte.com
+bottlerobust.com
 bottleschance.com
 bottlestonightapp.com
 boudja.com
@@ -15705,7 +15700,6 @@ catwrite.com
 avb-co.cau1aighae.com
 avb-latam.cau1aighae.com
 di-res.cau1aighae.com
-di-res-latam.cau1aighae.com
 latam.cau1aighae.com
 caugs.com
 caunaurou.com
@@ -16342,6 +16336,7 @@ chissaibsgirls.com
 chistochisto.com
 chitika.com
 chl7rysobc3ol6xla.com
+chligh.com
 chmzlxs.com
 chnci.com
 x8.cho-chin.com
@@ -17976,7 +17971,6 @@ crakbanner.com
 crakcash.com
 crakmedia.com
 craktraffic.com
-rtb-useast-v4.cranberryads.com
 tracking.cranepi.com
 info.cranes101.com
 crankyderangeabound.com
@@ -19493,6 +19487,7 @@ difficultfog.com
 difficultydilapidationsodium.com
 diffidecrams.com
 diffusion-tracker.com
+diffusionpub.com
 dified.com
 difiel.com
 digadser.com
@@ -19522,7 +19517,6 @@ hbid.ams3.cdn.digitaloceanspaces.com
 adshunter.fra1.digitaloceanspaces.com
 digitaloptout.com
 analytics.digitalpfizer.com
-cpm.digitalpiee.com
 track.digitalriver.com
 digitalscance.com
 digitalthrottle.com
@@ -19717,7 +19711,6 @@ displayformatrevenue.com
 displaymarketplace.com
 displaynetworkcontent.com
 displaynetworkprofit.com
-www.displaystorm.com
 displayvertising.com
 displink.com
 disploot.com
@@ -20625,6 +20618,7 @@ e66gg.com
 e67df3f29d.com
 e67repidwnfu7gcha.com
 e6a12d08d2.com
+e6eae88795.com
 e7001.com
 e7015.com
 e702fa7de9d35c37.com
@@ -21992,7 +21986,6 @@ tracking.experiencescottsdale.com
 expertnifg.com
 metrics.experts-exchange.com
 marketing.experts.com
-filter-eu.expialidosius.com
 expiredemure.com
 explac.com
 analytics.explained-from-first-principles.com
@@ -22059,7 +22052,6 @@ extreme-ip-lookup.com
 metrics.extremetech.com
 extremetracking.com
 extyoasigus.com
-clkv4.extyoneplus-1.com
 extyoneplus-3.com
 exuberanteyes.com
 exuberantsoda.com
@@ -24414,6 +24406,7 @@ gamersdon.com
 gamersgiveaways.com
 click.gamersky.com
 wmbd.gamersky.com
+gamersterritory.com
 gamersxparadise.com
 ut.gamersyde.com
 gamerz-cheats.com
@@ -24796,7 +24789,6 @@ push.getbeamer.com
 getbetafree.com
 getbillsdocumentation.com
 getblueshift.com
-gg.getbs.com
 getbtn.com
 bacon.getcarro.com
 getcashforsurveys.com
@@ -25318,7 +25310,6 @@ gobicyice.com
 gobmodfoe.com
 gobosclatchy.com
 app.gobulldogs.com
-cdn.gocolow.com
 gocye.com
 events.api.godaddy.com
 parking.godaddy.com
@@ -26873,7 +26864,6 @@ hentaibiz.com
 hentaicounter.com
 www4.hentaigamecg.com
 cdn3.hentaihand.com
-ads.hentaiheart.com
 hentaiheroes.com
 hentaimotel.com
 henwilkson.com
@@ -27629,6 +27619,7 @@ huckauhy.com
 links.huckleberry-labs.com
 hucolt.com
 hudbee.com
+huddha.com
 huddhi.com
 hueads.com
 huffson-delivery.com
@@ -27644,6 +27635,7 @@ huhuhiiuio.com
 huidaiqing.com
 huifuhuo.com
 huigoushop.com
+huihemou.com
 huilianji.com
 huimee.com
 huineihan.com
@@ -28881,6 +28873,7 @@ emails.investigationdiscovery.com
 investigatorpertinent.com
 investing-bank.com
 investing-fund.com
+investing-globe.com
 investingchannel.com
 investnewsbrazil.com
 metrics.investorplace.com
@@ -29336,6 +29329,7 @@ jailbreakyourps4.com
 jailbulb.com
 jailershowmen.com
 jainaritzily.com
+jajevnitxoshgb.com
 jajnhd.com
 web.campaign.jaked.com
 damselfly.jakekorth.com
@@ -29936,7 +29930,6 @@ junkucm.com
 junmediadirect.com
 junmediadirect1.com
 junnew.com
-login.junnifytech.com
 track.juno.com
 junotherome.com
 p.junshi881.com
@@ -30491,6 +30484,7 @@ knocus.com
 knorex.com
 website-usage.knorr-bremse.com
 knotkettle.com
+knotlaghell.com
 knottishhuntilc.com
 knottysticks.com
 know-whos-spying.com
@@ -31102,6 +31096,7 @@ aff-report.lbesecapi.com
 events.lbesecapi.com
 psi.lbesecapi.com
 lc442.com
+lcaccorhu.com
 smetrics.lcbo.com
 lcdwjuzdkpxnss.com
 lcentntel.com
@@ -31203,7 +31198,6 @@ images.insurance.leavitt.com
 attribution.lebara.com
 lebinaphy.com
 hmoctt.leboutique.com
-sponsor-v2.lebtown.com
 lecaleros.com
 leche69.com
 lechihah.com
@@ -32260,7 +32254,6 @@ lzrikate.com
 lzscagcpmroyyz.com
 lzupkz.com
 lzxdx24yib.com
-lzzqqc.com
 m-afee.com
 m-growninppcode.com
 m-pathy.com
@@ -33693,7 +33686,6 @@ mjnxku.com
 mjrhficjcbf.com
 mjrvkv5.com
 hawk.mjsarfatti.com
-mjx123.com
 mk-ads.com
 mkaff.com
 mkazanc.com
@@ -34075,6 +34067,7 @@ morbidlocally.com
 morbitempus.com
 mordieuweeshee.com
 mordoops.com
+more-followers.com
 morebattery4u.com
 moregamers.com
 morehitserver.com
@@ -34267,7 +34260,6 @@ mpk01.com
 marketing.mplsnw.com
 mplxtms.com
 mpmcash.com
-mpmsqunurxv.com
 mpnrs.com
 mppmnetwork.com
 mpqfzyh.com
@@ -34423,6 +34415,7 @@ touch.multitaction.com
 info.multitech.com
 multiupload.com
 multiview.com
+mummybeautydebauch.com
 dai18.mumu01.com
 lkiqkq.mumzworld.com
 munchenviableski.com
@@ -35724,7 +35717,6 @@ track.nomadsvertise.com
 nomalleadzuaff.com
 nomeuspagrus.com
 nominalpowerlessunable.com
-nc.nominaturfy.com
 nomnemtalions.com
 nomorepecans.com
 nonbasekick.com
@@ -35993,7 +35985,6 @@ nullnorth.com
 xy.nullrefexcep.com
 stats.nullsecure.com
 nullsrefilliron.com
-lq.nullusposolo.com
 nuloox.com
 nulwhbbyfdxy.com
 numarapaneli.com
@@ -36176,6 +36167,7 @@ objectionsdomesticatednagging.com
 marketing.objectpartners.com
 objectsentrust.com
 oblivionwatcherrebellious.com
+oblongcondition.com
 oblongseller.com
 obmnt.com
 obnarium.com
@@ -36851,7 +36843,6 @@ tms.oracle.com
 console-telemetry.oci.oraclecloud.com
 visit-prod-us.occa.ocs.oraclecloud.com
 ccexperimentsstatic.oracleoutsourcing.com
-s.oralblow.com
 oranegfodnd.com
 orangeclickmedia.com
 orangeoperation.com
@@ -39800,6 +39791,7 @@ pyxjwks.com
 pyyhkn.com
 pyzkk.com
 pzapi-ij.com
+pzapi-kg.com
 pziacchirov.com
 pzimff.com
 images.quality.q-centrix.com
@@ -40911,7 +40903,6 @@ releasehacks.com
 relentfrance.com
 relept.com
 relestar.com
-filter.relevanceads.com
 relevant-digital.com
 relevantairbornefantastic.com
 relevanti.com
@@ -43102,6 +43093,7 @@ smetrics.sherwoodparkchev.com
 sheschemetraitor.com
 shesubscriptions.com
 shewantsumuch.com
+shhaiya.com
 shhort.com
 shibaglybu.com
 shibairdrop.com
@@ -43822,6 +43814,7 @@ slrviazqkilu.com
 sltvhyjthx.com
 bass.slugnews.com
 sluiceliable.com
+slutroulette.com
 tr.slvrbullet.com
 slychicks.com
 anteater.slyvon.com
@@ -44734,6 +44727,7 @@ s.srvsynd.com
 srvtrck.com
 www.srvtrkxx1.com
 www.srvtrkxx2.com
+ss-n-30.com
 campaign.ssab.com
 networksdk.ssacdn.com
 ssbyysdaj.com
@@ -46336,6 +46330,7 @@ telyn610zoanthropy.com
 tembetanymil.com
 temnos.com
 temperacaimans.com
+temperrunnersdale.com
 tempersonic.com
 temphilltop.com
 templatehelp.com
@@ -46480,6 +46475,7 @@ tf2pull.com
 tf2www.com
 tfaftemail.com
 tfaln.com
+tfbulkidn.com
 tffkroute.com
 adspot.tfgapps.com
 tfiph.com
@@ -48446,6 +48442,12 @@ u22055.com
 u22066.com
 u22077.com
 u22088.com
+u23011.com
+u23022.com
+u23033.com
+u23055.com
+u25011.com
+u25022.com
 u2676.com
 u29qnuav3i6p.com
 u2bmco.com
@@ -48936,7 +48938,6 @@ unusuallynonfictionconsumption.com
 unusualtitle.com
 unvanilluxer.com
 unveilhacks.com
-lf.unvenomangst.com
 unwartortlean.com
 unwarydebite.com
 unwieldyhealth.com
@@ -49145,8 +49146,6 @@ eq.userneeds.com
 userreport.com
 users-api.com
 embed.usersmagic.com
-push.userwave.com
-static.userwave.com
 userzoom.com
 usesfathom.com
 communications.usfleettracking.com
@@ -51789,6 +51788,7 @@ xmlrtb.com
 xmlterra.com
 xml.xmlwiz.com
 xmlwizard.com
+xmmnsl.com
 xmoneymakers.com
 xmorex.com
 ax4.xmoviesland.com
@@ -51865,13 +51865,9 @@ marketing.xsightusa.com
 rdbd.xsread.com
 xsrs.com
 bupupua4.xsuffer.com
-danannnan.xsuffer.com
 jikyjuu6.xsuffer.com
-kedistari.xsuffer.com
-nelanedorr.xsuffer.com
 upset.xsuffer.com
 xswvytnxkzkzq.com
-gg.xszcdn.com
 xtendadvert.com
 xtendmedia.com
 xtgreat.com
@@ -52153,6 +52149,7 @@ yhdichan.com
 yhhbtavgpuo.com
 yhsmk.com
 yhz18.com
+yhzzzs02.com
 yibivacaji.com
 applog.yiche.com
 log.ycapp.yiche.com
@@ -52781,7 +52778,6 @@ zhuba8.com
 zhufushuo.com
 zgsdk.zhugeio.com
 zhululm.com
-p1.zhumengwl.com
 zhuomengwangluo.com
 i.zhuoyaju.com
 zhushihuahan.com
@@ -52798,7 +52794,6 @@ zigzaggodmotheragain.com
 zijaipse.com
 zikroarg.com
 zilchesmoated.com
-dd.zillahhayers.com
 zim-zim-zam.com
 zimill.com
 zincdatawipe.com
@@ -52982,6 +52977,7 @@ zugnogne.com
 zugo.com
 pkk1.zuimeiniwo.com
 zukxd6fkxqn.com
+t.zulily.com
 deepdive.zum.com
 estat.zum.com
 luhoio.zum.com
@@ -53127,6 +53123,7 @@ ibikini.cyou
 iorlsblj.cyou
 japsmna.cyou
 javddngx.cyou
+juyqiolna.cyou
 jwadakesa.cyou
 kapsmnd.cyou
 kwadakesd.cyou
@@ -53161,6 +53158,7 @@ speedup.cyou
 ssio6xepo.cyou
 swadakesb.cyou
 terbaru.cyou
+tuyqiolni.cyou
 twadakesi.cyou
 uorlsblg.cyou
 uwadakest.cyou
@@ -57361,6 +57359,7 @@ sw88.foxtv.es
 smetrics.frontlinemascotas.es
 smetrics.gaes.es
 gaug.es
+gdpr.es
 metric.genesis.es
 metrics.genesis.es
 ads.grupozeta.es
@@ -61511,7 +61510,6 @@ wurfl.io
 geo.xcel.io
 ovk.xceler8.io
 xref.io
-cpm.xrtb.io
 load.xxxdb.io
 yakutia.io
 yellowblue.io
@@ -63255,6 +63253,7 @@ findprizesplace.life
 foregogabbro.life
 foxcdn.life
 gayfinder.life
+get-datinghere.life
 get-partner.life
 girlstaste.life
 haigou.life
@@ -63301,6 +63300,7 @@ synkd.life
 systemupdatesy.life
 takebest-prizes.life
 takemore-prizes.life
+takeyourpresent.life
 tropateiqs.life
 trustedstream.life
 twirlsengaud.life
@@ -63402,6 +63402,7 @@ capraundine.live
 captchafine.live
 analytics.cdn.live
 celebjihad.live
+chethgentman.live
 plus.chocobabe.live
 video.chocobabe.live
 colombomyeloid.live
@@ -63454,6 +63455,7 @@ jshosting.live
 kewosi.live
 korruoebt.live
 lamburnsay.live
+laxthatpie.live
 letrigaze.live
 losepipegoes.live
 machoembathe.live
@@ -63953,6 +63955,7 @@ geoflix.me
 getkudos.me
 getnotification.me
 a1.gexing.me
+ggcorp.me
 gglx.me
 gigboost.me
 goodcode.me
@@ -64135,7 +64138,6 @@ zhangheng.me
 zk6.me
 7ad.media
 adex.media
-xml.adflyer.media
 dsp.adhunter.media
 adimage.media
 adshort.media
@@ -65055,6 +65057,7 @@ bizspring.net
 blackhatsoft.net
 blackpics.net
 coral.bladestudy.net
+block-ad-easy.net
 blockchaindoubler.net
 x.bloggurat.net
 bloglock.net
@@ -65261,7 +65264,6 @@ clickequations.net
 clickexperts.net
 clickintext.net
 clickkingdom.net
-xml.clickmi.net
 clickmobad.net
 clickscloud.net
 clicksegypt.net
@@ -65306,6 +65308,7 @@ d140sbu1b1m3h0.cloudfront.net
 d141wsrw9m4as6.cloudfront.net
 d14821r0t3377v.cloudfront.net
 d14pdm1b7fi5kh.cloudfront.net
+d14zhsq5aop7ap.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
 d15gt9gwxw5wu0.cloudfront.net
 d15jg7068qz6nm.cloudfront.net
@@ -67585,7 +67588,6 @@ maoyumao.net
 log.mappy.net
 marketfly.net
 marketing-profis.net
-clk.marketjar.net
 marketo.net
 blueinfo.marugroup.net
 info.marugroup.net
@@ -68871,7 +68873,6 @@ uzerly.net
 v-links.net
 v3cdn.net
 vaingloryhack.net
-valemedia.net
 valueclick.net
 vantage-media.net
 vareza.net
@@ -69822,7 +69823,6 @@ stemgthrop.one
 stats.suf.one
 tgracefulc.one
 kinky.tracked.one
-nice.tranny.one
 stats.tresor.one
 truffle.one
 ttoefanyorget.one
@@ -71294,7 +71294,6 @@ engage.3m.com.pk
 smetrics.marketing.lighting.philips.com.pk
 analytics.metro.pk
 resonance.pk
-sp.theladyshop.pk
 stats1.tune.pk
 my.11teamsports.pl
 engage.3mpolska.pl
@@ -72242,7 +72241,6 @@ smetrics.rochenet.pt
 ads.sapo.pt
 adw.sapo.pt
 webstats.sapo.pt
-static.saturndynamic.pt
 zwinqi.spartoo.pt
 tracking.stihl.pt
 my.top4fitness.pt
@@ -76366,8 +76364,6 @@ smetrics.seat.tn
 adcryp.to
 plausible.ams.to
 anonima.to
-cdn3.cartoonporn.to
-cdn5.cartoonporn.to
 6cf0e7801e8cd.clicknplay.to
 go.clicknplay.to
 cpx.to
@@ -77562,6 +77558,7 @@ bitskins.com.ua
 callmenow.com.ua
 ssy7.destinia.com.ua
 dtoottuleringv.com.ua
+eiorwithitofsti.com.ua
 nfused.eobuv.com.ua
 push.esputnik.com.ua
 secure.esputnik.com.ua
@@ -77596,6 +77593,7 @@ untusthemailha.com.ua
 viprelax.com.ua
 weblog.com.ua
 worldofrest.com.ua
+yfedatherappear.com.ua
 lzvojx.deka.ua
 c.hit.ua
 context.hotline.ua
@@ -78942,11 +78940,11 @@ fetm.xin
 kuaidou.xin
 luotuoma.xin
 ningsiy.xin
+oulibf.xin
 weilin.xin
 yangll.xin
 yangyiluo.xin
 dl.crazyporn.xxx
-jo.fapnado.xxx
 oi.fapnow.xxx
 grandfuckauto.xxx
 long.xxx
@@ -79289,6 +79287,7 @@ bainederrain.xyz
 bainiaochaofeng.xyz
 baiphote.xyz
 banggongxia.xyz
+banhui.xyz
 bankneyminist.xyz
 bapkgkskdtjkd.xyz
 baresi.xyz
@@ -79312,6 +79311,7 @@ begantotireo.xyz
 bemusic.xyz
 benonblkd.xyz
 benureko.xyz
+beqawu.xyz
 beqokg.xyz
 berhima.xyz
 berkshiretoday.xyz
@@ -79410,7 +79410,6 @@ byznb.xyz
 bzngisyv.xyz
 c0c.xyz
 c0z.xyz
-go.c4ptainr0berts.xyz
 camewiththe.xyz
 caomeixz10.xyz
 carenterhosi.xyz
@@ -79524,6 +79523,7 @@ ctuhn2cop.xyz
 ctuklyeconnec.xyz
 cuchpfvsk.xyz
 cuiilqfrctxdo.xyz
+cuwuqo.xyz
 cvbdw.xyz
 cvkvtsjjrs.xyz
 cvogttseoqnld.xyz
@@ -80435,6 +80435,7 @@ municalcurit.xyz
 muoo.xyz
 muzhiying.xyz
 muzhskoy.xyz
+mvbtp.xyz
 mvdwq.xyz
 mvgueuevfbw.xyz
 mvusq.xyz
@@ -80538,6 +80539,7 @@ nxdfg.xyz
 nxhkkm.xyz
 nxqxhthxn.xyz
 nydbehindforh.xyz
+nypyzx.xyz
 nythemorewasth.xyz
 o06.xyz
 o4svlxhjun.xyz
@@ -80878,7 +80880,6 @@ sabs-push.xyz
 safe524.xyz
 sahandkeightg.xyz
 sange20221226.xyz
-ads.saplacikardepo.xyz
 sb6688.xyz
 sbeforeuka.xyz
 sbehgm.xyz
@@ -81234,7 +81235,6 @@ warten-sie-mal.xyz
 wasanasset.xyz
 watchmyvids.xyz
 wattvqajwlhey.xyz
-mob.waveparadise.xyz
 wcfievwwtai.xyz
 wdroweavewerre.xyz
 wdtuxxjy.xyz
@@ -81534,19 +81534,11 @@ unityhacks.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core2/main/blacklist.txt ##########
 
-# Ignored duplicates: 78535
+# Ignored duplicates: 78529
 
-webpushdirect.biz
-avantajadas.com.br
-popcorntime.com.br
-cavixoapp.com
-jkshqcgulrws.com
-jnvgqephpmxnntn.com
-rmuvpedjdshliqc.com
-skinnedunsame.com
-viableconferfitting.com
-surfactif.fr
-11askdnalsd11.monster
+baguioattalea.com
+mpmsqunurxv.com
+valemedia.net
 
 
 ########## Blocklist from https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ads-all ##########
