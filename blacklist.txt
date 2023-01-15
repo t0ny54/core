@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core/main/blocklist-agh.txt ##########
 
-# Ignored duplicates: 1724
+# Ignored duplicates: 1725
 
 marketing.globalpointofcare.abbott
 metrics.abbott
@@ -263,7 +263,6 @@ data-1c0a3d83e3.transfermarkt.com.ar
 data-84a0f3455d.transfermarkt.com.ar
 chereogatsa.art
 dragon.codemakes.art
-cdn1.delii2.art
 track.ivhu.art
 iwannabelike.art
 pl.kis-nagy.art
@@ -2320,6 +2319,7 @@ drtladv.cc
 dy-home.cc
 ertdsi.cc
 fanza.cc
+fds-1230.cc
 curated.fieldtest.cc
 piwik.filecrypt.cc
 fjdy.cc
@@ -3431,6 +3431,7 @@ bmzdysi.cn
 bnqlgdj.cn
 boweineng.cn
 bpnhgan.cn
+bqrkubs.cn
 bqyvip.cn
 brmzopt.cn
 bsaq5.cn
@@ -4428,6 +4429,7 @@ lamimi.cn
 lanshiwan.cn
 lawumi.cn
 un1.lawyernet.cn
+laxnlqn.cn
 lbbyft.cn
 c.lbsbbw.cn
 v.lbsbbw.cn
@@ -4855,6 +4857,7 @@ qrfladd.cn
 qrnmyn.cn
 qrzogzy.cn
 qsdqyf.cn
+qsezjy.cn
 qsmdeyz.cn
 qstzar.cn
 qtnfnrm.cn
@@ -4866,6 +4869,7 @@ qvfkiwf.cn
 qvqcfau.cn
 qvxhgni.cn
 qvyzdox.cn
+qzeqjvo.cn
 qzlkqsl.cn
 qzqyw.cn
 qzsfmbt.cn
@@ -5307,6 +5311,7 @@ wctcudh.cn
 wdbtiwn.cn
 manage.wdfans.cn
 wdjptto.cn
+wdmdejd.cn
 wdswgjn.cn
 wduwvjd.cn
 webstd.cn
@@ -5616,6 +5621,7 @@ zkqfrti.cn
 zljycst.cn
 zlmbnh.cn
 zlujomk.cn
+zmdtcw.cn
 zmlled.cn
 zobesmu.cn
 zovgdpj.cn
@@ -6198,6 +6204,7 @@ o.027eat.com
 033.com
 033dfgh.com
 035caop.com
+0398067ebe.com
 03ed9035a0801f.com
 03f128fb44.com
 04-f-bmf.com
@@ -9310,6 +9317,7 @@ adentifi.com
 adeptexcessivewatches.com
 aderstono.com
 adespresso.com
+adeumssp.com
 adexchangecloud.com
 adexchangedirect.com
 adexchangegate.com
@@ -11662,6 +11670,7 @@ javascriptcounter.appspot.com
 literally-analytics.appspot.com
 mobondhrd.appspot.com
 ohm-dot-hackster-io.appspot.com
+optimeeze.appspot.com
 optimizely.appspot.com
 ping-dot-acp-magento.appspot.com
 qubitanalytics.appspot.com
@@ -11670,6 +11679,7 @@ ads-dot-fbc-web-2018.uc.r.appspot.com
 sales-pop-dot-autoketing-production-sdk.appspot.com
 sc-analytics.appspot.com
 tap-nexus.appspot.com
+tracker-dot-optimeeze.appspot.com
 appsprelandlab.com
 appstreets.com
 appsunlocker.com
@@ -11683,6 +11693,7 @@ apptornado.com
 apptospace.com
 marketing.apptricity.com
 appwebview.com
+appzery.com
 appzeyland.com
 appzoneteam.com
 aprelite.com
@@ -14350,6 +14361,7 @@ smetrics.bms.com
 smetrics.bmscustomerconnect.com
 smetrics.bmsstudyconnect.com
 bmw-330d.com
+bmybkeo.com
 metrics.bna.com
 smetrics.bna.com
 smetrics.bnck-12.com
@@ -17198,6 +17210,7 @@ coin-have.com
 coin-service.com
 coinadster.com
 coinadv.com
+dp.coinbase.com
 events-service.coinbase.com
 coinbasepro-giveaway.com
 coinblind.com
@@ -20301,6 +20314,7 @@ dreamhackz.com
 ads.dreamjobcompany.com
 smetrics.dreamvacationweek.com
 dreaty.com
+dressblockedfund.com
 dressexpansion.com
 goto.dresslily.com
 gotoaws.dresslily.com
@@ -20659,6 +20673,7 @@ e2fc6f14d8.com
 e335udnv6drg78b7.com
 e376ef28103177cc.com
 e4d3c228c4.com
+e4f820396d.com
 e4nglis56hcoo5nhou6nd.com
 e55cdcbcd2.com
 e5asyhilodice.com
@@ -20678,6 +20693,7 @@ e7e776c1a8bf677.com
 hmeagu.e87.com
 e8a0cb51c6.com
 e8c09b34de.com
+e8jp9.com
 e9c1khhwn4uf.com
 e9d46e21e9.com
 ea0e9526cf.com
@@ -23070,6 +23086,7 @@ fireworkapi.com
 fireworkapi1.com
 fireworktv.com
 firexclamation.com
+firine.com
 firist.com
 firmenia.com
 flavors.firmenich.com
@@ -24279,6 +24296,7 @@ fxxgw.com
 fxyg168.com
 fyber.com
 fykdxpdnhy.com
+fymlwv.com
 fyqdzrydfww.com
 fyreball.com
 fyvvm.com
@@ -25181,6 +25199,7 @@ gleameddelightprosperity.com
 gleamingtrade.com
 tracker.gleanview.com
 glebypraiss.com
+gleefulwaflib.com
 gleemsomto.com
 gleitmappy.com
 glekrush.com
@@ -25785,6 +25804,7 @@ greekomythpo.com
 www.green-bloc9.com
 greenjapan-cname.green-japan.com
 green-red.com
+green-search-engine.com
 greenadblocker.com
 marketing.greenbay.com
 sp.greenbaypressgazette.com
@@ -27332,6 +27352,7 @@ rxqqaq.hollandandbarrett.com
 hollekeamboina.com
 hollercatastrophe.com
 hollerscanelos.com
+collect.hollisterco.com
 metrics.hollisterco.com
 smetrics.hollisterco.com
 hollowafterthought.com
@@ -29811,6 +29832,7 @@ plausible.joinself.com
 joinsubtext.com
 jointreport-switch.com
 jojoad.com
+jojog.com
 joker-dz.com
 events.jokerly.com
 jokoshep.com
@@ -31480,6 +31502,7 @@ lfg5jnbi.com
 lfjaqwwsgyu.com
 lflili.com
 lflucky.com
+lflzcaskpkfhi.com
 lfport.com
 lfsenmei.com
 lfstmedia.com
@@ -31977,6 +32000,7 @@ success.lohfeldconsulting.com
 sp.lohud.com
 sxjfhh.lohud.com
 sls2.loisirsencheres.com
+loispp.com
 lojapanelmo.com
 lokalleads-cci.com
 lokeriklan.com
@@ -33010,6 +33034,7 @@ mdcytqwnbr.com
 trk.mddionline.com
 ssl.o.mdedge.com
 mdeih.com
+mdfbrsfkufamsr.com
 mdfsbn.com
 mdgzg.com
 mdialog.com
@@ -33340,6 +33365,7 @@ merterpazar.com
 merzostueru2hu8jr09.com
 cattle.mes-renovateurs.com
 marketing.mesalabs.com
+mesalplayboy.com
 meshagreeable.com
 meshpetrols.com
 messagenovice.com
@@ -33695,6 +33721,7 @@ secure.misc1bulk.com
 www.misc1bulk.com
 miscreantmine.com
 miscreantmoon.com
+misear.com
 a8clk.miselclinic.com
 miserve-chanics.com
 misguidedstork.com
@@ -34011,6 +34038,7 @@ moguldom.com
 a8.mogurun.com
 bd1.moguvet.com
 mohengdu.com
+mohretsu.com
 moijs.com
 moist-thunderstorm.com
 moistblank.com
@@ -34382,6 +34410,7 @@ smetrics.mrhandyman.com
 mrjb7hvcks.com
 mrksys.com
 mrmserve.com
+mrnrkogtxb.com
 tracker.mrpfd.com
 smetrics.mrplumberatlanta.com
 mrporngeek.com
@@ -36186,6 +36215,7 @@ nyetm2mkch.com
 nyfoknamlrqxc.com
 nygvejyn.com
 nygwcwsvnu.com
+prod-events.nykaa.com
 smetrics.nykaa.com
 smetrics.nykaafashion.com
 smetrics.nylaarp.com
@@ -36571,6 +36601,7 @@ omgt4.com
 omgt5.com
 omgtnc.com
 omguk.com
+omhoa.com
 omiki.com
 ablink.book.omio.com
 ablink.email.omio.com
@@ -47040,6 +47071,7 @@ thnqemehtyfe.com
 thoartuw.com
 swordtail.thocstock.com
 thofandew.com
+tholedfubbery.com
 tholteti.com
 thomasbarlowpro.com
 stats.thomasfroese.com
@@ -52889,6 +52921,7 @@ a8cv.zerorenovation.com
 zerostats.com
 zesdmn.com
 zesep.com
+zestedmalays.com
 zestekygri.com
 zestycrime.com
 zetadeo.com
@@ -57148,6 +57181,7 @@ ironerswhse.digital
 ivoriedkolis.digital
 kenningnatus.digital
 kwaznkureluct.digital
+leptaasellus.digital
 locatioiranic.digital
 logilyavie.digital
 mashmantalpa.digital
@@ -59860,6 +59894,7 @@ updateinfo2022.icu
 victoryskins.icu
 vx4n.icu
 wangye.icu
+wjl58.icu
 yeip5aehi.icu
 yiop2bace.icu
 youa2qudo.icu
@@ -63202,7 +63237,7 @@ maz.zba.jp
 w.zenback.jp
 widget.zenback.jp
 a8.zeroku.jp
-zucks.net.zimg.jp
+zimg.jp
 crypta.js
 action.hassconsult.co.ke
 pixel.tuko.co.ke
@@ -63566,6 +63601,7 @@ zhuxin.link
 zog.link
 5idoy8p7.live
 adspro.live
+agazpeppily.live
 aimvaria.live
 allencup.live
 allpipestay.live
@@ -63707,6 +63743,7 @@ verifier.live
 vipcaptcha.live
 vkonte.live
 vriddhiabrege.live
+wuge20230104.live
 wydfghjjh.live
 wyplmjufd.live
 wyqaafplm.live
@@ -64228,6 +64265,7 @@ plsdrct1.me
 plsdrct2.me
 popcornews.me
 populr.me
+pornhb.me
 qontent.powvibeo.me
 rontent.powvibeo.me
 sontent.powvibeo.me
@@ -66005,6 +66043,7 @@ d3j3yrurxcqogk.cloudfront.net
 d3j7esvm4tntxq.cloudfront.net
 d3jcjsor8fnmka.cloudfront.net
 d3jdulus8lb392.cloudfront.net
+d3jdzopz39efs7.cloudfront.net
 d3kblkhdtjv0tf.cloudfront.net
 d3klfyy4pvmpzb.cloudfront.net
 d3kpkrgd3aj4o7.cloudfront.net
@@ -69011,6 +69050,7 @@ twithack.net
 twthack.net
 tx99y.net
 txtrek.net
+p.typekit.net
 uamobile.net
 uapoisk.net
 uclo.net
@@ -77338,6 +77378,7 @@ wb9c.top
 wbazhaheie.top
 wbdsj.top
 wcnmd.top
+wdasa.top
 webpushcloud.top
 weijiakeji.top
 weipapa.top
@@ -77788,6 +77829,7 @@ igas.com.ua
 itwasbrghttohi.com.ua
 partner.join.com.ua
 landupoatour.com.ua
+ldimnveryldgittl.com.ua
 lux-bn.com.ua
 puokor.maximoda.com.ua
 mbn.com.ua
@@ -77801,6 +77843,7 @@ chats.novait.com.ua
 informers.openmedia.com.ua
 c.opinion.com.ua
 counter.opinion.com.ua
+owbroinothiermon.com.ua
 rang.com.ua
 recreativ.com.ua
 adversting.riamedia.com.ua
@@ -80244,6 +80287,7 @@ i46.xyz
 i54.xyz
 vm5.i7akpd1.xyz
 i8x9.xyz
+ibdjdtmkq.xyz
 ibhxmxuwb.xyz
 iblimq.xyz
 icewaterhou.xyz
@@ -80424,6 +80468,7 @@ kecms.xyz
 keeyekey.xyz
 keifimnwamgyky.xyz
 kelpmetorealiu.xyz
+keoap.xyz
 kerezomahep.xyz
 kescowledge.xyz
 keterrehepren.xyz
@@ -80486,6 +80531,7 @@ kuleqasforsal.xyz
 kuminaluna.xyz
 kurulum.xyz
 kv61xc8.xyz
+kvcyoiwy.xyz
 kvhuxqatip.xyz
 kwfgvrfxdwbquk.xyz
 kwkjsqmy.xyz
@@ -80629,6 +80675,7 @@ mentwren.xyz
 mergedeep.xyz
 metahv.xyz
 metherearl.xyz
+mffdn.xyz
 mffwcrnoup.xyz
 mgowec.xyz
 mgrattedropenrigh.xyz
@@ -81261,6 +81308,7 @@ swqplvlfarqx.xyz
 sxqxyktuxjhedif.xyz
 sxqyuming.xyz
 sxuheg.xyz
+sycrgc.xyz
 syks.xyz
 symqnniqrueq.xyz
 syndiesserged.xyz
@@ -81807,7 +81855,7 @@ unityhacks.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core2/main/blacklist.txt ##########
 
-# Ignored duplicates: 78824
+# Ignored duplicates: 78864
 
 
 
