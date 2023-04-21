@@ -2,7 +2,7 @@
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core/main/blocklist-agh.txt ##########
 
-# Ignored duplicates: 2459
+# Ignored duplicates: 2462
 
 marketing.globalpointofcare.abbott
 marketing2.globalpointofcare.abbott
@@ -65038,9 +65038,6 @@ ninjacat.io
 j.northbeam.io
 notiks.io
 notix.io
-cdn-b.notsy.io
-track.notsy.io
-track-aws.notsy.io
 p.nqueue.io
 ntv.io
 o-s.io
@@ -86213,7 +86210,7 @@ unityhacks.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/t0ny54/core2/main/blacklist.txt ##########
 
-# Ignored duplicates: 80439
+# Ignored duplicates: 80432
 
 smetrics.hr.abbott
 stats.avery.ae
@@ -86507,6 +86504,7 @@ get.evidence.care
 mackerel.fathom.cat
 ugdcxl.timeout.cat
 aniauu2.cc
+anifk71.cc
 aniqgsz.cc
 b.sexvids.cc
 follow.socialhub.center
@@ -86555,7 +86553,9 @@ tracking.ssab.cl
 images.tgrinforma.tesoreria.cl
 ashgrrwt.click
 asiapushstan17.click
+communityease.click
 contentads.click
+driversign.click
 kamehameha.click
 kaminari.click
 krplss.click
@@ -86575,6 +86575,7 @@ worldtxt.club
 8b4v.cn
 92ph.cn
 smetrics.alfalaval.cn
+aprlitj.cn
 aqpvglv.cn
 somni.aussiespecialist.cn
 somni.australia.cn
@@ -86592,6 +86593,7 @@ edvcqnp.cn
 evmnlpv.cn
 falal.cn
 fssxyiq.cn
+fthqzxq.cn
 trk.futureelectronics.cn
 metrics.hollisterco.cn
 hsrgnac.cn
@@ -86621,6 +86623,7 @@ aads.shuzilm.cn
 sjalipa.cn
 gg.taoseyy.cn
 sstats.thermoscientific.cn
+umcpebi.cn
 uqelxct.cn
 uqymady.cn
 uwhreur.cn
@@ -86649,6 +86652,7 @@ frdjs-2.co
 info.heirtight.co
 clk.karzz.co
 sbeqti.koaj.co
+offerlink.co
 orca.overbold.co
 data.ajo.phrasee.co
 piaochong.co
@@ -86689,6 +86693,7 @@ track.24monetize.com
 2d12b2f25b.com
 2f09c4f4cb.com
 2miners.com
+2x2mfeed.com
 380tl.com
 39nw.com
 4cd6c4dceb.com
@@ -86700,6 +86705,7 @@ maxtat.55truck.com
 576de58030.com
 59a3e34c69.com
 ywrcqa.5newsonline.com
+6ce0a3adc4.com
 7a75ebcbd7.com
 7ff83b4a34.com
 user-analysis.7moor.com
@@ -86759,6 +86765,7 @@ acfmycpgiunq.com
 acfsxqoa.com
 acfyahhd.com
 acgqanakrna.com
+achilles-par.com
 acjiqbfenafre.com
 ackuotagowr.com
 aclcdxkukaa.com
@@ -86994,6 +87001,7 @@ zenedge.actonservice.com
 zuidema.actonservice.com
 lowermybills.actonsoftware.com
 tr.news.actu-man.com
+actuallyfrustration.com
 acwislrmwtetkuj.com
 metrics.adage.com
 adaipjondmc.com
@@ -87034,7 +87042,6 @@ afotbyxrlddkclk.com
 afromessenger.com
 bbubuq.aftco.com
 images.na.agcocorp.com
-agctrpokr.com
 smetrics.agentprovocateur.com
 agfompphv.com
 agfsppekuik.com
@@ -87113,6 +87120,7 @@ sstats.alfalaval.com
 stats.alfalaval.com
 algbalisny.com
 marketing.alhi.com
+alia-iso.com
 fvuitt.alibabuy.com
 imjsfy.allbeauty.com
 communications.allegion.com
@@ -87172,6 +87180,7 @@ amtcwixpdsjurjm.com
 amunfezanttor.com
 amusedbucket.com
 amywhereby.com
+anaklbjjw.com
 qyfjeq.anapnet.com
 wunqlc.anayi.com
 ancdwlavstghmr.com
@@ -87208,12 +87217,14 @@ apbxnqbhd.com
 apccrwpr.com
 smetrics.apellis.com
 eloqua.apexsql.com
+apjoklsuslwiaak.com
 images.voyage.apl.com
 aplidhree.com
 marketing.apnconsultinginc.com
 apooyvfpky.com
 srepdata.app.com
 sxjfhh.app.com
+appcloudactive.com
 yvdxij.applevacations.com
 appcloud.appyreward.com
 aptrinsic.com
@@ -87363,6 +87374,7 @@ ayxfqtxrgoc.com
 ayxvriiuicxuab.com
 ayyfewggggfbhf.com
 sxjfhh.azcentral.com
+azxcuqzzozi.com
 a8cv.b-mobilerental.com
 b30da4e330.com
 b329d177ff.com
@@ -87416,6 +87428,7 @@ ofydky.beautycounter.com
 hkvwug.beautyexperience.com
 bef62233f1.com
 health.behealthytodayblog.com
+belia-glp.com
 qvwaan.bellalunatoys.com
 ufnkti.belleetbio.com
 market.bellelily.com
@@ -87517,6 +87530,7 @@ images.e.bulls.com
 bulyiel.com
 bumpyremittancecarnivorous.com
 bunbeautifullycleverness.com
+bundaxsandi.com
 buochxuvhmewc.com
 burbtoao.com
 burqbfki.com
@@ -87542,7 +87556,6 @@ bxnoflryajxn.com
 bxpjlheddfqhifu.com
 bxprftms.com
 bxwpekad.com
-byaylpkuj.com
 bybkvouamd.com
 bycpmcyijanr.com
 bymqpoppwnlflc.com
@@ -87647,6 +87660,7 @@ cevjyhper.com
 cfbepufkikyxva.com
 cfclhaqhjdtw.com
 cfekxodsdfjsmy.com
+cffujnudcdy.com
 cfrtvwybx.com
 tr.assoc.cfsr-retine.com
 cfubdjsolbs.com
@@ -87662,9 +87676,11 @@ marketing.channelmanagement.com
 tr.commint.groupe.chapsvision.com
 smetrics.charlotterusse.com
 t.chartwayarena.com
+measure.chase.com
 chdnnrdkpp.com
 cnpxwl.cheapcaribbean.com
 fqppgv.cheapoair.com
+cheecmou.com
 smetrics.chelseafc.com
 chestors.com
 cheuvcjpylbgp.com
@@ -87690,6 +87706,7 @@ events.cigna.com
 ciljbnktyre.com
 marketing.cima-software.com
 somni.cineplexdigitalmedia.com
+ciqwzifwufwu.com
 cirmudcap.com
 smetrics.cirquedusoleil.com
 sites.campaignmgr.cisco.com
@@ -87726,6 +87743,7 @@ clavategrubbed.com
 clefskenelm.com
 clergyeluxate.com
 clergyprogramsdisavow.com
+clever-redirect.com
 go.clicknowtolearnmore.com
 tr.info.clicochic.com
 marketing.clientsfirst-us.com
@@ -87808,6 +87826,7 @@ smetrics.cotellic.com
 smetrics.cottages.com
 smetrics.countryfinancialsecurityblog.com
 marketing.couplescruise.com
+couplestupidity.com
 vglosh.courierpress.com
 nsc.coutts.com
 cs.cowmankai.com
@@ -87852,6 +87871,7 @@ metrics.csmonitor.com
 metrics.csnhouston.com
 info.ctiimage.com
 xml.ctrtraffic.com
+ctsdwm.com
 gbtracking.cubiq.com
 satracking.cubiq.com
 t.cubuffs.com
@@ -87954,6 +87974,7 @@ stats.depends-on-the-definition.com
 hoyxmg.deporvillage.com
 deqkmzurltovbk.com
 sxjfhh.desertsun.com
+deservesjoke.com
 response.desjardins.com
 secure1.desjardinsgeneralinsurance.com
 desorbtarrify.com
@@ -88059,6 +88080,7 @@ dwigwltjera.com
 imgict.dwtcmarketing.com
 dwyhnprbg.com
 dxckttdr.com
+dxgftqrdt.com
 dxpkgjkakdmnj.com
 dyagyifrke.com
 lp.dynabook.com
@@ -88230,6 +88252,7 @@ a8cv.eys-musicschool.com
 eyyawskeh.com
 ezcgojaamg.com
 smetrics.f-f.com
+f05a7ec0cf.com
 f2fc0fce65.com
 facankaphfqjap.com
 faipeeji.com
@@ -88358,6 +88381,7 @@ sepvbm.fromyouflowers.com
 marketing.frontrowseatsllc.com
 med.frx.com
 rffsds.fsastore.com
+fsbwbwbldyrh.com
 info.fscsecurities.com
 media.fsctrust.com
 fsjjstfokntd.com
@@ -88417,6 +88441,7 @@ a8cv.gigabaito.com
 rr.giggertji.com
 visitors.gigianddavid.com
 mknlbp.ginospa.com
+gipahetus.com
 girl-51-w.com
 sstats.girls1st.com
 givide.com
@@ -88560,6 +88585,7 @@ metrics.hgtv.com
 sa.hgtv.com
 grs.hicloud.com
 ey.hiedflashed.com
+highercldfrevb.com
 web.hikari-biglobe.com
 web.hikari-softbank.com
 affa8.hikkoshi-master.com
@@ -88644,9 +88670,12 @@ ihauvogh.com
 my.iheartradio.com
 ijorecepous.com
 ikcdhvbyg.com
+ikholm.com
 vuypew.ikks.com
 xaljnh.iloom.com
 ohxrqr.ilvi.com
+ads.imbc.com
+adsmrapi.imbc.com
 communication.imecitf.com
 imgint1.com
 ww2.imgtaxi.com
@@ -88691,6 +88720,7 @@ insistent-worker.com
 properties.insiterealestate.com
 workforce-optimization.insperity.com
 track.inspirage.com
+inspxtrc.com
 sstats.instantconference.com
 go.integraoptics.com
 aa.diyer.intel-social.com
@@ -88809,6 +88839,7 @@ smetrics.kegerator.com
 somniture.kegerator.com
 analytics.kellerpermits.com
 ywrcqa.kens5.com
+ketekbisokaliau.com
 keumshow.com
 marketing.keylane.com
 communicatelp.keysight.com
@@ -88910,6 +88941,7 @@ stat.legalintelligence.com
 confiaen.legalitas.com
 legalleg.com
 nplden.legionathletics.com
+lehvxwciysoac.com
 lemotherofhe.com
 tracking3.lenovo.com
 pljuin.lensmode.com
@@ -88971,6 +89003,7 @@ loomspreadingnamely.com
 loosenoutfit.com
 marketing.lorenzproducts.com
 eitkrg.loriblu.com
+losslace.com
 hraggz.lovelyskin.com
 lpnjcnigcfuk.com
 zigpdx.ltbjeans.com
@@ -89043,6 +89076,7 @@ metrics.maxgo.com
 maximherein.com
 trk.maximus-solution.com
 maypreposition.com
+mbuncha.com
 images.demand.mcafee.com
 enterprise2.secureforms.mcafee.com
 news2.secureforms.mcafee.com
@@ -89079,6 +89113,7 @@ static.melozen.com
 meltedacrid.com
 membai.com
 memney.com
+memorizematch.com
 qvzrde.mensagenscomamor.com
 mentorsticks.com
 uflfhl.mercci22.com
@@ -89092,6 +89127,7 @@ go.metalgoodsmfg.com
 smetrics.metlife.com
 go.mge.com
 contracts.mhainc.com
+mhnlpltjts.com
 smetrics.mhswi.com
 info.mhzdesign.com
 target.miaprova.com
@@ -89366,6 +89402,7 @@ go-elqau.oracle.com
 orbednubby.com
 development.oregon4biz.com
 dw.organaamnions.com
+oriberphomes.com
 cvwitr.origines-parfums.com
 marketing.orionrisk.com
 smetrics.orlandofuntickets.com
@@ -89581,6 +89618,7 @@ go.psentertainment.com
 track.psmode.com
 track.psoriasisbesttreatment.com
 metrics.psoriasisuncovered.com
+psuftoum.com
 ptaicoamt.com
 ptljkekttqf.com
 your.maas.ptvgroup.com
@@ -89664,6 +89702,7 @@ smetrics.mibcookies.rbs.com
 omniture.rbs.com
 smetrics.rci.com
 papemz.rcwilley.com
+rdroot.com
 info.reachtech.com
 marketing.reactioncommerce.com
 marketing.realcomm.com
@@ -89720,6 +89759,7 @@ resentproduces.com
 resetamobil.com
 smetrics.resortdeveloper.com
 track.restorationgrowth.com
+restroomcalf.com
 response.retailchoice.com
 metrics.retirenewyorklifeaarp.com
 marketing.revgroup.com
@@ -89731,6 +89771,7 @@ revulsionwash.com
 marketing.rgproducts.com
 data-a85b10211f.rhein-neckar-zeitung.com
 t-s.rheumatoidarthritis.com
+ridesbeerbabes.com
 rigiddepth.com
 om.ringcentral.com
 lm.rinserbefore.com
@@ -89814,6 +89855,7 @@ seniorliving.sandhillcove.com
 a8cv.store.saneibd.com
 alazhj.sarahliller.com
 fznshe.sarahpacini.com
+sarang77skuy.com
 sarinjowel.com
 satoripedary.com
 jtxrou.saucony.com
@@ -89946,12 +89988,14 @@ bcfgwi.skidxb.com
 hvuprn.skinnydiplondon.com
 smetrics.skiphop.com
 ivoexd.sklepjubilerski.com
+skluff.com
 skt-asum.com
 s.metrics.skyandtelescope.com
 info.skystem.com
 slakiervolost.com
 pfmram.slamjam.com
 metrics.slate.com
+slearl.com
 stats.slicedthread.com
 slightlyinfalliblestring.com
 act-on-marketing.slot3d.com
@@ -89960,6 +90004,7 @@ smachnakittchen.com
 tracking.smartbets.com
 marketing.smartcoversystems.com
 path.smartfinancesusa2023.com
+medialog.smartmediarep.com
 marketing.smartowner.com
 metrics.smartstyle.com
 lmfjmq.smaryu.com
@@ -90184,6 +90229,7 @@ event3.thermoscientific.com
 info2.thermoscientific.com
 promos.thermoscientific.com
 info.theshelbyreport.com
+thesisadornpathetic.com
 info.thesmsgroup.com
 seniorliving.thestayton.com
 marketing.thetambellinigroup.com
@@ -90216,6 +90262,7 @@ tipcartoleron.com
 tittyptinoid.com
 tlprxzujk.com
 tlxkomrhkl.com
+tlybabet.com
 go.tm4.com
 tmb5trk.com
 tmhapkuvvhld.com
@@ -90278,6 +90325,7 @@ tubetitties.com
 app.tuckerciviccenter.com
 ww0.tui.com
 tummingfass.com
+turbanconstituent.com
 turncdn.com
 smetrics.turner.com
 trk.tuthillpump.com
@@ -90523,6 +90571,7 @@ whouledu.com
 smetrics.wibe.com
 widezealconstant.com
 widual.com
+wiela-kig.com
 a8.wifi-fami.com
 wiglessoctaves.com
 responses.wild.com
@@ -90578,9 +90627,11 @@ wtpizrezmr.com
 ywrcqa.wtsp.com
 wumteecoodsu.com
 wutzibapqf.com
+wuwutnnyedlhvr.com
 wvhba6470p.com
 sp.wvoil.com
 smetrics.wwd.com
+wwgqqq.com
 wwlipxritaoo.com
 wybuwygro.com
 wydpbibdqwvbr.com
@@ -90634,6 +90685,7 @@ t.xtreamarena.com
 xttaff.com
 xtyovvojltfo.com
 ghghgf.xuexiwa.com
+xufmuhavdpze.com
 xyjaewocysv.com
 xxqqpe.ya-man.com
 rfmfrg.yamap.com
@@ -90851,6 +90903,7 @@ klick.gaylibe.de
 nggxgg.getfittrack.de
 data-92cc871c16.glaswelt.de
 data-191b2429e8.gzsz.de
+sgtm.handyhuellen.de
 wxunyc.handyhuellen.de
 rpozzl.happy-size.de
 data-cdc8773b0f.hcm-magazin.de
@@ -91356,6 +91409,7 @@ ngfruitiesmatc.info
 tq.nxthost-1.info
 tq-eu.nxthost-1.info
 overwiththinlea.info
+phiresandalarg.info
 securetags.sigsa.info
 terperbelomo.info
 code.usergram.info
@@ -91376,6 +91430,7 @@ digitalaudience.io
 marketing.enspark.io
 kimberlite.io
 rhinoceros.krieger.io
+notsy.io
 mackerel.passiveincome.io
 swallow.pelias.io
 stats.pubfind.io
@@ -91383,6 +91438,7 @@ tracking.purchasely.io
 trk.reflo.io
 stats.sayla.io
 bass.siterig.io
+smartytech.io
 21fhq0t574p.talentkit.io
 tend.io
 barnacle.viewsource.io
@@ -91527,6 +91583,7 @@ smetrics.lissage.jp
 ybkvxd.lubren.jp
 a8cv.maenomery.jp
 cjulor.marimekko.jp
+medipartner.jp
 bmodjx.mgos.jp
 a8.miror.jp
 nlvnht.miror.jp
@@ -91602,12 +91659,15 @@ fashionacreak.life
 gratunsung.life
 ikrauteri.life
 ripsawssalud.life
+strumascarman.life
 tenantbaffle.life
+winearth.life
 yantrasvamosed.life
 pl.carbon-tab.ethan.link
 lianxi.link
 aff.trcklg.link
 1niao20230410.live
+mindtonwore.live
 pelisrev.live
 email-ap.jll.com.lk
 meoem.lol
@@ -91619,6 +91679,7 @@ kjcesr.manzara.lt
 smetrics.viega.lt
 campu.ltd
 flyinsky2009.ltd
+ncyx.ltd
 originate.ltd
 qingdou.ltd
 shangyuan.ltd
@@ -91758,6 +91819,7 @@ stouceey.net
 studsurs.net
 omni.superonline.net
 somni.superonline.net
+sylverlight.net
 ebeudf.tabirai.net
 info.techwave.net
 trace.zhiyan.tencent-cloud.net
@@ -91926,6 +91988,7 @@ marketing.fortsmith.org
 app.frbcommunications.org
 web.connect.garnethealth.org
 ostrich.getschools.org
+gjwos.org
 email.gncu.org
 info.gucu.org
 info.guideposts.org
@@ -92059,6 +92122,7 @@ rationalan.pro
 simplistic-potato.pro
 smailes.pro
 submissivemain.pro
+tautcare.pro
 tremendous-tour.pro
 whole-win.pro
 wiltedfuture.pro
@@ -92120,6 +92184,7 @@ smetrics.kone.ru
 akrrbm.loloclo.ru
 yyezbr.miratorg.ru
 jambwe.mkset.ru
+modato.ru
 knfjhy.echo.msk.ru
 ngazee.novostroy-m.ru
 qmlzcm.petshop.ru
@@ -92232,6 +92297,7 @@ wobsneesty.space
 marketing.bca.srl
 clicks.support
 info.credicomer.com.sv
+rss.tc
 arsoitedarien.tech
 woodpecker.eatfresh.tech
 smetrics.kanebo.co.th
@@ -92248,6 +92314,7 @@ a8clk.ziaco.eco-life.tokyo
 aabproxydomaintests.top
 aabtestsproxydomain.top
 arcfctypact.top
+chainbelt.top
 ck33.top
 cuewbsmpk.top
 d86n.top
@@ -92387,6 +92454,7 @@ forgoesthalli.uno
 fricacedisgulf.uno
 gessoesbeavers.uno
 gulsachpyrexia.uno
+prowertarre.uno
 rowdiersnary.uno
 taurinkimonos.uno
 trubudoll.uno
@@ -92410,10 +92478,12 @@ bethelskneeler.website
 carlotcoopee.website
 doweryacreak.website
 genetorhebe.website
+hiatecudgel.website
 knocksdriddle.website
 oweltysegnos.website
 pizzasaffixt.website
 rosellarecover.website
+sheerlyballute.website
 spiralewiverns.website
 uppitypartie.website
 frdoki.historicalpainting.work
@@ -92439,11 +92509,13 @@ aqeqdvlrg.xyz
 aqifiosjffspv.xyz
 argxdhrjhett.xyz
 auaccabsoq.xyz
+aunxqvrmywxg.xyz
 awxecggixh.xyz
 axadxilggyj.xyz
 axepqoutxsmsm.xyz
 axjraxoegws.xyz
 beemauhu.xyz
+betgdr.xyz
 bexxhlatjhmyei.xyz
 rtb-useast.bidmyqps.xyz
 bjxkbyge.xyz
@@ -92576,6 +92648,7 @@ gorhnffu.xyz
 grersomp.xyz
 gukodxxhkc.xyz
 gymifuaijgmt.xyz
+heild.xyz
 helid.xyz
 hffdjxnyxckf.xyz
 hgkjpckgo.xyz
@@ -92587,6 +92660,7 @@ hxfjbdgjscufctm.xyz
 hxpmbb.xyz
 igylwxvxgsuvcs.xyz
 ilvjakchadntmhv.xyz
+iqybys.xyz
 jeedi.xyz
 jgnocofmf.xyz
 jjrbggmbtvgtp.xyz
@@ -92639,6 +92713,8 @@ pbvfakenkssrjr.xyz
 pbwgtikysxosanb.xyz
 pcmcuumrua.xyz
 pdfihxjrtjkccse.xyz
+pdiyluhfttb.xyz
+pedjqkl.xyz
 phvswjsrbn.xyz
 pifivfhahwqpnnj.xyz
 pingleflavor.xyz
@@ -92658,6 +92734,7 @@ rablcmhoqx.xyz
 raunowhy.xyz
 recommendedforyou.xyz
 refparer.xyz
+rhkaljxsxlxn.xyz
 rsodmwkxkioj.xyz
 rsthwwqhxef.xyz
 ryrpksmidqcvx.xyz
@@ -92707,6 +92784,7 @@ wdgbinxtxsnbeu.xyz
 wdudornahlv.xyz
 wdygoi.xyz
 whbn.xyz
+wheestop.xyz
 wholaums.xyz
 wiwcyaduybqpjkx.xyz
 wixqpbtkrkovtm.xyz
@@ -92746,6 +92824,7 @@ xskjyfef.xyz
 xxafhjvajklqqe.xyz
 yb0a.xyz
 yxxdgxld.xyz
+zhemu.xyz
 zoushao.xyz
 mvlujb.allcatalogues.co.za
 qfwfbo.decofurnsa.co.za
