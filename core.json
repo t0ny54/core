@@ -205,13 +205,6 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
 {
-      "name": "EasyList ad servers third-party31",
-      "source": "https://easylist-downloads.adblockplus.org/easyprivacy.tpl",
-      "type": "adblock",
-      "inclusions": ["/^\\|\\|[a-z0-9-.]+\\^?(\\$third-party)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$3p)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$popup)?$/", "/^\\|\\|[a-z0-9-.]+\\^?(\\$all)?$/"],
-      "transformations": ["RemoveModifiers", "Validate"]
-    },
-{
       "name": "EasyList ad servers third-party33",
       "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",
       "type": "adblock",
